@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '6987'
     url: http://www.gutenberg.org/2009/agents/6987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16870#Injun-and-Whitey-to-the-Rescue
 gutenberg_issued: '2005-10-14'
 gutenberg_type: Text
 identifiers:
